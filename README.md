@@ -12,7 +12,7 @@
         <li>  $PayPalAdress = Adresse EMAIL du compte PayPal <br>
         <li>  $sucess = La page vers la quel est dirig&eacute; la personne en cas de succ&egrave;s <br>
         <li>  $error = La page vers la quel est dirig&eacute; la personne en cas de probl&egrave;me <br>
-        <li>  $NP = La page pour r&eacute;cuperer les information de paiement () <br>
+        <li>  $NP = La page pour r&eacute;cuperer les information de paiement <br>
         <li> $url = Rajoutez sandbox. devant paypal.com pour être rediriger vers la sandbox de PayPal /!\ vous devez vous creez un faux compte acheteur et vendeur depuis la page de sandbox paypal 
         
   </body>
