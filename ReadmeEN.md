@@ -3,8 +3,8 @@
     <title>API DON BY PAYPAL 1.0 BY SLIKE</title>
   </head>
   <body>
-  <h1>API DON BY PAYPAL 1.0 BY SLIKE</h1>3
-  <h1>Version française : <a href="https://github.com/Slik3/PayPal-Don/blob/master/README.md">here</a></h1
+  <h1>API DON BY PAYPAL 1.0 BY SLIKE</h1>
+  <h1>Version française : <a href="https://github.com/Slik3/PayPal-Don/blob/master/README.md">ici</a></h1
   <h2>Configuration</h2>
     <h3>Go to the file "options.php"</h3>
       <h4>Set the variables</h4>
