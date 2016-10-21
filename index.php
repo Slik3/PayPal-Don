@@ -12,3 +12,10 @@
         </div>
     </body>
 </html>
+
+<!--
+
+    Copyright Slike 2016
+    Licence : MIT
+
+-->
