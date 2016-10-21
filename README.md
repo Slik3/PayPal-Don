@@ -15,7 +15,7 @@
         <li>  $error = La page vers la quel est dirig&eacute; la personne en cas de probl&egrave;me <br>
         <li>  $NP = La page pour r&eacute;cuperer les information de paiement <br>
         <li> $url = Rajoutez sandbox. devant paypal.com pour être rediriger vers la sandbox de PayPal /!\ vous devez vous creez un faux compte acheteur et vendeur depuis la page de sandbox paypal 
-        
+        <li> Si besoin, lisez le a href="https://github.com/Slik3/PayPal-Don/wiki">wiki</a> pour avoir tous les changements et autres expliquations non précisé ici
   </body>
   <footer>
     <p>&copy;Slike.fr 2016</p>
