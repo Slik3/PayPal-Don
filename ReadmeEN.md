@@ -1,11 +1,3 @@
-API DON BY PAYPAL 1.0 SLIKE
-BY PAYPAL API 1.0 SLIKE
-Configuration
-Go to the file "options.php"
-Set the variables
-
-Use Google Captcha website to find your keys: https://www.google.com/recaptcha/admin
-
 <html>
   <head>
     <title>API DON BY PAYPAL 1.0 BY SLIKE</title>
