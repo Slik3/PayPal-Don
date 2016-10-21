@@ -4,6 +4,7 @@
   </head>
   <body>
   <h1>API PAYPAL 1.0 PAR SLIKE</h1>
+  <h1>English version : <a href="https://github.com/Slik3/PayPal-Don/blob/master/ReadmeEN.md">here</a></h1>
   <h2>Configuration</h2>
     <h3>Allez dans le fichier "options.php"
       <h4>D&eacute;finissez les variables</h4>
