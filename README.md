@@ -1,6 +1,7 @@
 <html>
   <head>
-    <title>API DON PAYPAL 1.0 PAR SLIKE</title>
+    [![Github All Releases](https://img.shields.io/github/downloads/Slik3/PayPal-Don/total.svg)]()
+    [![license](https://img.shields.io/github/license/Slik3/PayPal-Don.svg)]()
   </head>
   <body>
   <h1>API PAYPAL 1.0 PAR SLIKE</h1>
